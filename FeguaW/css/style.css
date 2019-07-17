@@ -1,0 +1,18 @@
+
+.fondo1{
+	background: url(https://thumbs.dreamstime.com/z/fondo-hist%C3%B3rico-del-tema-de-la-arquitectura-91036107.jpg)no-repeat;
+		-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover; 
+	width: 100%;
+	height: 560px;
+	padding:right:10%;
+	padding-left:%;
+}
+.letra{
+	font-family: Verdana, Calibri, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+
+ 
